@@ -275,5 +275,5 @@ The following screenshot shows the Kanban board with six Issues organized into T
 
 ### GitHub Issues
 
-The following screenshot shows the six User Stories created as GitHub Issues.
+The following screenshot shows the five User Stories created as GitHub Issues.
 <img width="1918" height="810" alt="Screenshot 2026-07-30 115407" src="https://github.com/user-attachments/assets/c9b1e4cc-ae4f-4cb8-ace3-d16aa55fdba9" />
