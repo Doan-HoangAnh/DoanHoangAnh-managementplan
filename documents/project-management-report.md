@@ -1,11 +1,7 @@
 # PROJECT MANAGEMENT REPORT
 
 **Project:** Student Internship Management System  
-**Student:** Doan Hoang Anh
-
-**Student Code:**22080003 
-**Project Management Tool:** GitHub Projects  
-
+**Student:** Doan Hoang Anh 
 ## 1. Introduction
 
 Project management is the process of planning, organizing, assigning, monitoring, and controlling project activities to achieve a specific objective. Effective project management helps a development team understand what must be completed, who is responsible for each activity, and how the project is progressing.
