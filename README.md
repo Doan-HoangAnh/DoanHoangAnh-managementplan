@@ -97,13 +97,7 @@ The project contains:
 The report includes an evaluation of the Med-AI project management sample:
 
 https://medai-project-board.vercel.app
-
-## Author
-
-Doan Hoang Anh)
-
 ## Sample Board Evaluation
-
 The report includes an evaluation of the Med-AI project management sample:
 
 https://medai-project-board.vercel.app
