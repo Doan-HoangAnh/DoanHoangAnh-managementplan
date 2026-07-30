@@ -210,10 +210,6 @@ The Kanban cards shown in the sample do not clearly display the person responsib
 
 The Gantt chart displays task periods but does not clearly show which tasks depend on other tasks.
 
-6. **Terminology is not completely consistent**
-
-The interface combines Vietnamese terms with English technical terms. A consistent language would make the interface easier to understand.
-
 ## 9. Comparison with GitHub Projects
 
 | Criterion | Med-AI Sample | GitHub Projects |
