@@ -271,9 +271,5 @@ The Med-AI sample has useful features such as summary statistics, risk warnings,
 
 ### GitHub Project Board
 
-The following screenshot shows the Kanban board with six Issues organized into Todo, In Progress, and Done.
-
-### GitHub Issues
-
-The following screenshot shows the five User Stories created as GitHub Issues.
+The following screenshot shows the Kanban board with five Issues organized into Todo, In Progress, and Done.
 <img width="1918" height="810" alt="Screenshot 2026-07-30 115407" src="https://github.com/user-attachments/assets/c9b1e4cc-ae4f-4cb8-ace3-d16aa55fdba9" />
