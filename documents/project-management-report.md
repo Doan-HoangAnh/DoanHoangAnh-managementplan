@@ -2,7 +2,6 @@
 
 **Project:** Student Internship Management System  
 **Student:** Doan Hoang Anh  
-**Course:** HSB2006 - Tool-based Practical Software Development Studio  
 **Project Management Tool:** GitHub Projects  
 
 ## 1. Introduction
