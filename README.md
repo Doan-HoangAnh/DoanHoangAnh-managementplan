@@ -30,11 +30,11 @@ The project uses three statuses:
 
 The project contains:
 
-- 3 Functional Requirements
+- 5 Functional Requirements
 - 2 Non-Functional Requirements
-- 3 User Stories
+- 5 User Stories
 - Acceptance Criteria for each User Story
-- 3 GitHub Issues
+- 5 GitHub Issues
 - 1 GitHub Project board
 
 ## Project Documents
