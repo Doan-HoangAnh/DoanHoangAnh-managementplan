@@ -57,7 +57,6 @@ GitHub Projects was selected for this assignment because it:
 - Records project changes.
 - Allows tasks to be assigned to team members.
 - Supports labels, status fields, filters, and roadmaps.
-- Makes the project accessible through a public link.
 
 ## 4. Sample Project Overview
 
@@ -188,9 +187,6 @@ The timeline shows the planned duration of different tasks and supports daily, w
 
 The assistant identifies tasks without deadlines and tasks that may be delayed. This helps the project manager take action before problems become serious.
 
-6. **Task categorization**
-
-Tasks use categories such as data, testing, interface, infrastructure, and operations. This makes the board easier to filter and understand.
 
 ### 8.2 Disadvantages
 
