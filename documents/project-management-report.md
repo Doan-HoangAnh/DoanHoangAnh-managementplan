@@ -89,6 +89,9 @@ The project uses the Kanban method with the following statuses:
 | FR-01 | The system must allow students to browse available internship opportunities. |
 | FR-02 | The system must allow students to submit weekly internship reports. |
 | FR-03 | The system must allow supervisors to review and comment on submitted reports. |
+| FR-04 | The system must notify students about upcoming internship deadlines. |
+| FR-05 | The system must allow students to upload internship documents. |
+
 
 ### 5.2 Non-Functional Requirements
 
@@ -136,6 +139,31 @@ As a supervisor, I want to review and comment on student reports so that I can p
 - The supervisor can enter feedback.
 - The supervisor can mark a report as reviewed.
 - The student can view the supervisor's feedback.
+### 6.4 User Story 4: Receive Internship Deadline Notifications
+
+**User Story**
+
+As a student, I want to receive notifications about upcoming internship deadlines so that I do not miss important submissions.
+
+**Acceptance Criteria**
+
+- The system displays upcoming internship deadlines.
+- The student receives a notification before a deadline.
+- The notification shows the task name and due date.
+- The student can mark the notification as read.
+### 6.5 User Story 5: Upload Internship Documents
+
+**User Story**
+
+As a student, I want to upload my internship documents so that my supervisor can review the required files.
+
+**Acceptance Criteria**
+
+- The student can select a document from the computer.
+- The system accepts PDF, DOCX, JPG, and PNG files.
+- The system displays a confirmation message after a successful upload.
+- The student can view the list of uploaded documents.
+- The system displays an error message when the file format is not supported.
 
 ## 7. Kanban Board Plan
 
@@ -144,6 +172,9 @@ As a supervisor, I want to review and comment on student reports so that I can p
 | US-01 Browse internship opportunities | Done | The requirement and interface design have been completed. |
 | US-02 Submit weekly internship report | In Progress | The report submission function is being developed. |
 | US-03 Review internship report | To Do | Development has not started. |
+| US-04 Receive internship deadline notifications | To Do | Development has not started. |
+| US-05 Upload internship documents | In Progress | The document upload function is being developed. |
+
 
 The board contains at least one Issue in the In Progress column, as required by the tutorial.
 
@@ -226,7 +257,7 @@ The Med-AI sample provides a visually detailed dashboard, while GitHub Projects 
 
 Project management is important for defining requirements, organizing tasks, assigning responsibilities, and monitoring project progress. Agile and Kanban provide flexible methods for managing software development activities.
 
-For the Student Internship Management System, GitHub Projects was selected because it integrates project tasks with GitHub Issues and provides a clear Kanban board. The sample project includes three Functional Requirements, two Non-Functional Requirements, three User Stories, and Acceptance Criteria.
+For the Student Internship Management System, GitHub Projects was selected because it integrates project tasks with GitHub Issues and provides a clear Kanban board. The sample project includes five Functional Requirements, three Non-Functional Requirements, five User Stories, and Acceptance Criteria.
 
 The Med-AI sample has useful features such as summary statistics, risk warnings, progress indicators, and a Gantt chart. However, improvements are needed in scheduling completeness, task responsibility, dependency visualization, and terminology consistency.
 
